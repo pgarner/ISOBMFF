@@ -31,6 +31,7 @@
 #ifndef ISOBMFF_BINARY_STREAM_HPP
 #define ISOBMFF_BINARY_STREAM_HPP
 
+#include <cstring>
 #include <string>
 #include <iostream>
 #include <cstdint>
